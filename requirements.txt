@@ -1,0 +1,2 @@
+asarPy==1.0.1
+tabulate==0.9.0
